@@ -33,6 +33,7 @@
 
 ## IDE : Android Studio est spécialisé dans la programmation d'applications mobiles.
 
+- On installe Android Studio depuis le Ubuntu Store ou depuis la suite Jetbrains
 
 
 ---
